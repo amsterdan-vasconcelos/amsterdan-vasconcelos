@@ -3,14 +3,14 @@
 <h2 style="color: #16423C;">👩‍💻 Um pouco sobre mim</h2>
 
 👋 Olá! Sou o Amsterdan
-    
+
 🔨 O que faço:
 
 ✔ Amo compartilhar meu conhecimento no youtube  
 ✔ Desenvolvo interfaces dinâmicas com React, Next.js (incluindo arquitetura de compound components)  
 ✔ Construo APIs robustas com Node.js, Express e MongoDB  
 ✔ Otimizo fluxos de trabalho com Docker, Git avançado e metodologias ágeis  
-✔ Gerencio estado complexo usando Zustand, TanStack Query e Context API  
+✔ Gerencio estado complexo usando Zustand, TanStack Query e Context API
 
 - Obrigado pela visita!
 
@@ -84,9 +84,6 @@
     </td>
     <td align="center" width="72">
       <img src="/assets/next.svg" alt="NextJS"><br><strong>NextJS</strong>
-    </td>
-    <td align="center" width="72">
-      <img src="/assets/vue.svg" alt="VueJS"><br><strong>VueJs</strong>
     </td>
     <td align="center" width="72">
       <img src="/assets/zustand.svg" alt="Zustand"><br><strong>Zustand</strong>
