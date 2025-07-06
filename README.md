@@ -146,9 +146,9 @@
 </table>
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amsterdan-vasconcelos&layout=compact&theme=gruvbox&bg_color=16423C" alt="Top Langs"  height=300">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amsterdan-vasconcelos&layout=compact&theme=gruvbox&bg_color=38b6ff" alt="Top Langs"  height=300">
   </p>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=amsterdan-vasconcelos&show_icons=true&theme=gruvbox&bg_color=16423C" alt="Stats"  height="300">
+    <img src="https://github-readme-stats.vercel.app/api?username=amsterdan-vasconcelos&show_icons=true&theme=gruvbox&bg_color=38b6ff" alt="Stats"  height="300">
   </p>
 <img src="/assets/footer.png" alt="footer" align="center" width="100%" />
