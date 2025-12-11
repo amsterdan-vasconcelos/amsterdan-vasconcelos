@@ -7,7 +7,7 @@
 🔨 O que faço:
 
 ✔ Amo compartilhar meu conhecimento  
-✔ Desenvolvo interfaces dinâmicas com React 
+✔ Desenvolvo interfaces dinâmicas com React  
 ✔ Construo APIs robustas com Node.js e Python  
 ✔ Otimizo fluxos de trabalho com Docker, Git e metodologias ágeis
 
