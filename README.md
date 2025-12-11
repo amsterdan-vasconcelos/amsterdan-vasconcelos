@@ -7,10 +7,9 @@
 🔨 O que faço:
 
 ✔ Amo compartilhar meu conhecimento  
-✔ Desenvolvo interfaces dinâmicas com React, Next.js (incluindo arquitetura de compound components)  
-✔ Construo APIs robustas com Node.js, PHP e Python  
-✔ Otimizo fluxos de trabalho com Docker, Git avançado e metodologias ágeis  
-✔ Gerencio estado complexo usando Zustand, TanStack Query e Context API
+✔ Desenvolvo interfaces dinâmicas com React 
+✔ Construo APIs robustas com Node.js e Python  
+✔ Otimizo fluxos de trabalho com Docker, Git e metodologias ágeis
 
 - Obrigado pela visita!
 
