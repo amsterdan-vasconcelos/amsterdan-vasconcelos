@@ -2,7 +2,7 @@
 
 <h2 style="color: #16423C;">👩‍💻 Um pouco sobre mim</h2>
 
-👋 Olá! Sou o Amsterdan
+👋 Olá! Sou o Amsterdan Vasconcelos (Um parasita 🦠)
 
 🔨 O que faço:
 
